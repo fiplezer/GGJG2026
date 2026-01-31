@@ -11,7 +11,6 @@ public class Teleport : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collision.transform.position = teleportLocation;
-            Debug.Log("Player teleported to: " + teleportLocation);
         }
     }
 }
