@@ -16,6 +16,6 @@ public class PlayerInput : MonoBehaviour
     void Shoot()
     {
     melee1 = Instantiate(melee1, instanpoint.position, instanpoint.rotation);
-        melee1.transform.position = Mathf.Lerp();
+        //melee1.transform.position = Mathf.Lerp();
     }
 }
