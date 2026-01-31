@@ -117,15 +117,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aeae2561ddc621a43aa7483b20db0d5e
-      internalID: 979921618
+      spriteID: 9e47f9f310454ec428deacf5a808f35b
+      internalID: -828222076
       vertices: []
       indices: 
       edges: []
@@ -138,15 +138,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3aa078b3e94cf3146bb6235dcbf57cdb
-      internalID: 177086251
+      spriteID: 2de657db118cacc45aa7f451f9e90523
+      internalID: -475620595
       vertices: []
       indices: 
       edges: []
@@ -159,15 +159,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41982d04d2c70ef4480d17cfc3f4182c
-      internalID: -555627935
+      spriteID: aea70f458119ffd43b429e1032f15cc6
+      internalID: 536147630
       vertices: []
       indices: 
       edges: []
@@ -180,15 +180,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ed45ff2ccc7879408839ee48c9a36d5
-      internalID: 1936390766
+      spriteID: 150444095a6bfd44ab4f9562cc8825ef
+      internalID: -405537738
       vertices: []
       indices: 
       edges: []
@@ -201,15 +201,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daf1bf62fefdf984db3feaece73b7359
-      internalID: 820142665
+      spriteID: cb3f19e875c841d439b1c9cb939c57e0
+      internalID: -1629676123
       vertices: []
       indices: 
       edges: []
@@ -222,15 +222,15 @@ TextureImporter:
         y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0b72106da2a1884a891d7b8d46c622a
-      internalID: 1546809798
+      spriteID: 44a5cb9b0de8d6d4da1ca87a69cc1ea1
+      internalID: 770217139
       vertices: []
       indices: 
       edges: []
@@ -239,19 +239,19 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 390
+        y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2beb2e8f083024741a2fe514a81d8b76
-      internalID: -315432883
+      spriteID: 61960ea7fc016d24f8c2fb1d7b93cb2b
+      internalID: -1011244835
       vertices: []
       indices: 
       edges: []
@@ -260,19 +260,19 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_7
       rect:
         serializedVersion: 2
-        x: 65
-        y: 0
+        x: 455
+        y: 65
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a426ceb9c6cd6744bcb7319d751d648
-      internalID: -2080925292
+      spriteID: bd32ebeb5ee42df4d96ff3afd592b9f3
+      internalID: -1463045314
       vertices: []
       indices: 
       edges: []
@@ -281,19 +281,19 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_8
       rect:
         serializedVersion: 2
-        x: 130
+        x: 0
         y: 0
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d1bda78e8f8a1645af04f94dc63f7b2
-      internalID: 1404183792
+      spriteID: 1f15092cad1ce154db5611859ef89afb
+      internalID: 1412378535
       vertices: []
       indices: 
       edges: []
@@ -302,19 +302,19 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_9
       rect:
         serializedVersion: 2
-        x: 195
+        x: 65
         y: 0
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbc55c25ea5a5e74e8c853a72c42de9d
-      internalID: -901500983
+      spriteID: b825dc13019d5f7499351da5cc8ea03b
+      internalID: -1106395058
       vertices: []
       indices: 
       edges: []
@@ -323,19 +323,19 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_10
       rect:
         serializedVersion: 2
-        x: 260
+        x: 130
         y: 0
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc89ab6e3268e7242b4920d528779762
-      internalID: 1755758927
+      spriteID: 4bd88968bce7ce747894515dd0f5aa14
+      internalID: 429493209
       vertices: []
       indices: 
       edges: []
@@ -344,19 +344,103 @@ TextureImporter:
       name: SpritesheetJustMaskBasic_11
       rect:
         serializedVersion: 2
-        x: 325
+        x: 195
         y: 0
         width: 64
         height: 64
-      alignment: 3
-      pivot: {x: 1, y: 1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27f3b536d1f3f44abf2ca131b5c53f7
-      internalID: 432258466
+      spriteID: e0e687ec1a437644a8c74a202504eb67
+      internalID: 388904319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetJustMaskBasic_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee47dd7e84b344fa30250b14b1d982
+      internalID: -642084590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetJustMaskBasic_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe447063bb12f488ff58464dfc5fc7
+      internalID: 1138009795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetJustMaskBasic_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978dbac342489f4eb281d38734a1c36
+      internalID: -414251344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesheetJustMaskBasic_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec42dd2646a24c45a0c5913ce64e6d3
+      internalID: -1533141604
       vertices: []
       indices: 
       edges: []
@@ -364,7 +448,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 27f60bf707c036c4fbf391807987b410
+    spriteID: 298e7850dde1bcb41af947d12cdd3006
     internalID: 0
     vertices: []
     indices: 
@@ -372,18 +456,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpritesheetJustMaskBasic_0: 979921618
-      SpritesheetJustMaskBasic_1: 177086251
-      SpritesheetJustMaskBasic_10: 1755758927
-      SpritesheetJustMaskBasic_11: 432258466
-      SpritesheetJustMaskBasic_2: -555627935
-      SpritesheetJustMaskBasic_3: 1936390766
-      SpritesheetJustMaskBasic_4: 820142665
-      SpritesheetJustMaskBasic_5: 1546809798
-      SpritesheetJustMaskBasic_6: -315432883
-      SpritesheetJustMaskBasic_7: -2080925292
-      SpritesheetJustMaskBasic_8: 1404183792
-      SpritesheetJustMaskBasic_9: -901500983
+      SpritesheetJustMaskBasic_0: -828222076
+      SpritesheetJustMaskBasic_1: -475620595
+      SpritesheetJustMaskBasic_10: 429493209
+      SpritesheetJustMaskBasic_11: 388904319
+      SpritesheetJustMaskBasic_12: -642084590
+      SpritesheetJustMaskBasic_13: 1138009795
+      SpritesheetJustMaskBasic_14: -414251344
+      SpritesheetJustMaskBasic_15: -1533141604
+      SpritesheetJustMaskBasic_2: 536147630
+      SpritesheetJustMaskBasic_3: -405537738
+      SpritesheetJustMaskBasic_4: -1629676123
+      SpritesheetJustMaskBasic_5: 770217139
+      SpritesheetJustMaskBasic_6: -1011244835
+      SpritesheetJustMaskBasic_7: -1463045314
+      SpritesheetJustMaskBasic_8: 1412378535
+      SpritesheetJustMaskBasic_9: -1106395058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
