@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +5,7 @@ public class EnemySpawnTrigger : MonoBehaviour
 {
     [Header("Spawning")]
     public GameObject[] enemyPrefabs;
-    public Transform spawnLocations;
+    public Transform[] spawnLocations;
     public int enemyCount = 3;
 
     [Header("Doors")]
