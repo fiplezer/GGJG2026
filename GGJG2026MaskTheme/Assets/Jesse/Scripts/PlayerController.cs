@@ -14,9 +14,16 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
 
+    //Zoe code animator//
+    private Animator animatorMask;
+
+    private const string _horizontal = "Horizontal";
+    private const string _vertical = "Vertical";
+    // einde //
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animatorMask = GetComponentInChildren<Animator>();
     }
 
     void Start()
@@ -41,6 +48,9 @@ public class PlayerController : MonoBehaviour
                 eventSystem.SetSelectedGameObject(null);
             }
         }
+
+        animatorMask.SetFloat(_horizontal, movement.x);
+        animatorMask.SetFloat (_vertical, movement.y);
     }
 
     void FixedUpdate()
