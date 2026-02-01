@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +6,7 @@ public class EnemySpawnTrigger : MonoBehaviour
     [Header("Spawning")]
     public GameObject[] enemyPrefabs;
     public Transform[] spawnLocations;
+    public int enemyCount = 3;
 
     [Header("Doors")]
     public GameObject[] doors;
@@ -26,14 +26,23 @@ public class EnemySpawnTrigger : MonoBehaviour
 
     void SpawnEnemies()
     {
-        foreach (Transform point in spawnLocations)
+        for (int i = 0; i < enemyCount; i++)
         {
-            GameObject enemy = Instantiate(enemyPrefabs[Random.Range(0, enemyPrefabs.Length)], point.position, Quaternion.identity);
+            Transform spawnPoint =
+                spawnLocations[Random.Range(0, spawnLocations.Length)];
+
+            GameObject prefab =
+                enemyPrefabs[Random.Range(0, enemyPrefabs.Length)];
+
+            GameObject enemy = Instantiate(
+                prefab,
+                spawnPoint.position,
+                Quaternion.identity
+            );
 
             aliveEnemies.Add(enemy);
 
             Enemy enemyScript = enemy.GetComponent<Enemy>();
-
             if (enemyScript != null)
             {
                 enemyScript.onDeath += OnEnemyDeath;
